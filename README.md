@@ -1,76 +1,33 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![Microverse logo](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello microverse
 
-> One paragraph statement about the project.
+Single proyect to develop skills using linters with plane css and html
 
-![screenshot](./app_screenshot.png)
+![screenshot of the page](./app_screenshot.png)
 
-Additional description about the project and its features.
+Plane css to do the style and not dynamic funtions.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+-CSS and HTML
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+This is an example of how to use css and html to build a web page. Do not open pull request because this is merely educative.
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Luis pomare**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
+- GitHub: [@luis-pomare](https://github.com/luis-pomare)
+- Twitter: [@LuisPomare1](https://twitter.com/LuisPomare1)
+- LinkedIn: [luis-pomare-388116225](https://www.linkedin.com/in/luis-pomare-388116225/)
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.

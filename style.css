@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  background-color: blanchedalmond;
+  justify-content: center;
+}
+.hello{
+  font-size: 5rem;
+  color: blue;
+  border: solid black 3px;
+  padding: 15px;
+}
